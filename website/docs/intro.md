@@ -24,3 +24,4 @@ The classic template will automatically be added to your project after you run t
 npm init docusaurus@latest my-website classic
 ```
 
+Feel like there's a load more to commit just to have Docusaurus there for building the documentation
