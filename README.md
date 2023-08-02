@@ -1,2 +1,2 @@
 # demo
-demo repo for testing if it works?! Hopefully closer??
+demo repo for testing Docusaurus deployment
